@@ -1,0 +1,14 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-32" />
+    <property name="installation.uid" value="e9ada39c-b5a4-4b69-88f7-c76f684ed1a9" />
+    <property name="android-component-compatibility-check" value="1460257364075" />
+    <property name="file.chooser.recent.files" value="/usr/lib/jvm/jdk1.7.0_65&#10;/usr/lib/jvm/java-8-oracle&#10;/home/vagrant/automation-tinkering/pom.xml&#10;/home/vagrant/settings.jar&#10;/vagrant" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="last.imported.location" value="$USER_HOME$/automation-tinkering/pom.xml" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="lastTip" value="1" />
+  </component>
+</application>
