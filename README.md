@@ -5,6 +5,9 @@ Lightweight Ubuntu box to use as dev env/playground
 
 This will put together a VM using VirtualBox and Vagrant that will have some of the basic software and settings needed to do java development in as well as Selenium-server and browser drivers to execute local tests againsts. 
 
+## Requirements
+1. You need to have VirtualBox already installed in the host system.  
+
 ## Installation
 
 1. Install [Vagrant](https://www.vagrantup.com).
