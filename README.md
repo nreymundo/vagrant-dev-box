@@ -25,6 +25,9 @@ This vagrant works for *Virtualbox*, on a 64 bits machine.
 - OpenVPN.
 - Gitg. 
 - [i3](https://i3wm.org/) as the window manager/desktop environment. 
+  - i3 is set by default to use `ALT` as the mod key. Using the windows key isn't the best option when running in a Windows host. 
+  - [i3 Reference Card](https://i3wm.org/docs/refcard.html) with basic commands and help. 
+  - [i3 User's Guide](https://i3wm.org/docs/userguide.html)
 
 ## Browser support
 
